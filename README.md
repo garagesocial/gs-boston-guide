@@ -1,4 +1,4 @@
-gs-boston-guide
+Guide to Boston
 ===============
 
-A wiki Guide to Boston
+Access the guide at https://github.com/garagesocial/gs-boston-guide
